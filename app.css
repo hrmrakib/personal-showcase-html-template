@@ -16,8 +16,8 @@
   line-height: 28px;
 }
 .hero_area {
-  background: url("/assets/programming-background-collage.jpg")
-    no-repeat;
+  background-image: url("/assets/programming-background-collage.jpg");
+    background-repeat: no-repeat;
   background-position: right bottom;
   background-size: 100% 100%;
   position: relative;
