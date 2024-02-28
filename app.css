@@ -58,12 +58,12 @@
   transition: 100ms;
 }
 
-.parent:hover .child {
+/* .parent:hover .child {
   transition: all 1s;
   -webkit-transform: rotateZ(360deg);
   -ms-transform: rotateZ(360deg);
   transform: rotateZ(360deg);
-}
+} */
 
 /* ============ */
 .side_navbar li:hover {
